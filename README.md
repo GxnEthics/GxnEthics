@@ -1,12 +1,13 @@
-# 🥷🏽GenEthics
+## GenEthics
 
-**`Digital Craftsman & Cyber Physician`**
+Just a guy learning how software works under the hood, 
+building cool things, breaking them, fixing them, and hopefully getting better along the way.
 
-I'm a Cybersecurity Engineer & Programming Enthusiast.
+Fun Facts
+* I worked at Google, Nissan and Capita PLC.
+* My sense of smell is borderline canine.
 
----
-
-## Tools & Technologies 
+### Tools & Technologies 
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,azure,linux,windows,powershell,bash,mysql,html,css)](https://skillicons.dev)
  
