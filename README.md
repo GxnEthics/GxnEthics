@@ -4,8 +4,6 @@
 
 I'm a Cybersecurity Engineer & Programming Enthusiast.
 
-Currently taking the CS50X course and learning Java for fun.
-
 ---
 
 ## Tools & Technologies 
